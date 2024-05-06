@@ -1,0 +1,30 @@
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\bin\Debug\net6.0\MédiaseResultados.exe
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\bin\Debug\net6.0\MédiaseResultados.deps.json
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\bin\Debug\net6.0\MédiaseResultados.runtimeconfig.json
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\bin\Debug\net6.0\MédiaseResultados.dll
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\bin\Debug\net6.0\MédiaseResultados.pdb
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.csproj.AssemblyReference.cache
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.AssemblyInfoInputs.cache
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.AssemblyInfo.cs
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.dll
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\refint\MédiaseResultados.dll
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.pdb
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.genruntimeconfig.cache
+C:\Users\3235guibra\source\repos\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\ref\MédiaseResultados.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\bin\Debug\net6.0\MédiaseResultados.exe
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\bin\Debug\net6.0\MédiaseResultados.deps.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\bin\Debug\net6.0\MédiaseResultados.runtimeconfig.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\bin\Debug\net6.0\MédiaseResultados.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\bin\Debug\net6.0\MédiaseResultados.pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.csproj.AssemblyReference.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.AssemblyInfoInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.AssemblyInfo.cs
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.csproj.CoreCompileInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\refint\MédiaseResultados.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\MédiaseResultados.genruntimeconfig.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\MédiaseResultados\MédiaseResultados\obj\Debug\net6.0\ref\MédiaseResultados.dll

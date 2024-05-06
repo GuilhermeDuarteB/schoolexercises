@@ -1,0 +1,15 @@
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\obj\Debug\net6.0\SomaNumeroPar_e_Impar.csproj.AssemblyReference.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\obj\Debug\net6.0\SomaNumeroPar_e_Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\obj\Debug\net6.0\SomaNumeroPar_e_Impar.AssemblyInfoInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\obj\Debug\net6.0\SomaNumeroPar_e_Impar.AssemblyInfo.cs
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\obj\Debug\net6.0\SomaNumeroPar_e_Impar.csproj.CoreCompileInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\bin\Debug\net6.0\SomaNumeroPar_e_Impar.exe
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\bin\Debug\net6.0\SomaNumeroPar_e_Impar.deps.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\bin\Debug\net6.0\SomaNumeroPar_e_Impar.runtimeconfig.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\bin\Debug\net6.0\SomaNumeroPar_e_Impar.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\bin\Debug\net6.0\SomaNumeroPar_e_Impar.pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\obj\Debug\net6.0\SomaNumeroPar_e_Impar.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\obj\Debug\net6.0\refint\SomaNumeroPar_e_Impar.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\obj\Debug\net6.0\SomaNumeroPar_e_Impar.pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\obj\Debug\net6.0\SomaNumeroPar_e_Impar.genruntimeconfig.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\SomaNumeroPar_e_Impar\SomaNumeroPar_e_Impar\obj\Debug\net6.0\ref\SomaNumeroPar_e_Impar.dll

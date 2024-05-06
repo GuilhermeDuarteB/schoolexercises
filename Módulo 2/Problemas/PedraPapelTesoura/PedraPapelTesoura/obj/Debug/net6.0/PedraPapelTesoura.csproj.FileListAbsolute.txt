@@ -1,0 +1,60 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\refint\PedraPapelTesoura.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\ref\PedraPapelTesoura.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.exe
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.deps.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.runtimeconfig.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.csproj.AssemblyReference.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.AssemblyInfoInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.AssemblyInfo.cs
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\refint\PedraPapelTesoura.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.genruntimeconfig.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\ref\PedraPapelTesoura.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\refint\PedraPapelTesoura.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\ref\PedraPapelTesoura.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\refint\PedraPapelTesoura.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\net6.0\PedraPapelTesoura.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\PedraPapelTesoura.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\net6.0\ref\PedraPapelTesoura.dll

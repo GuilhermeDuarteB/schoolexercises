@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Adivinha o Número/1.0.0": {
+        "runtime": {
+          "Adivinha o Número.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adivinha o Número/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\bin\Debug\net6.0\Média ParesImpares.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\bin\Debug\net6.0\Média ParesImpares.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\bin\Debug\net6.0\Média ParesImpares.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\bin\Debug\net6.0\Média ParesImpares.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\bin\Debug\net6.0\Média ParesImpares.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\obj\Debug\net6.0\Média ParesImpares.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\obj\Debug\net6.0\Média ParesImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\obj\Debug\net6.0\Média ParesImpares.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\obj\Debug\net6.0\Média ParesImpares.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\obj\Debug\net6.0\Média ParesImpares.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\obj\Debug\net6.0\Média ParesImpares.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\obj\Debug\net6.0\refint\Média ParesImpares.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\obj\Debug\net6.0\Média ParesImpares.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\obj\Debug\net6.0\Média ParesImpares.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\Média ParesImpares\Média ParesImpares\obj\Debug\net6.0\ref\Média ParesImpares.dll

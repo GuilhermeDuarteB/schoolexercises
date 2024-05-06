@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\obj\Debug\net6.0\Mes_Idioma[SWITCH].csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\obj\Debug\net6.0\Mes_Idioma[SWITCH].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\obj\Debug\net6.0\Mes_Idioma[SWITCH].AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\obj\Debug\net6.0\Mes_Idioma[SWITCH].AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\obj\Debug\net6.0\Mes_Idioma[SWITCH].csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\bin\Debug\net6.0\Mes_Idioma[SWITCH].exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\bin\Debug\net6.0\Mes_Idioma[SWITCH].deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\bin\Debug\net6.0\Mes_Idioma[SWITCH].runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\bin\Debug\net6.0\Mes_Idioma[SWITCH].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\bin\Debug\net6.0\Mes_Idioma[SWITCH].pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\obj\Debug\net6.0\Mes_Idioma[SWITCH].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\obj\Debug\net6.0\refint\Mes_Idioma[SWITCH].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\obj\Debug\net6.0\Mes_Idioma[SWITCH].pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\obj\Debug\net6.0\Mes_Idioma[SWITCH].genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Mes_Idioma[SWITCH]\Mes_Idioma[SWITCH]\obj\Debug\net6.0\ref\Mes_Idioma[SWITCH].dll

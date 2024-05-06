@@ -1,0 +1,45 @@
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.exe
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.deps.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.runtimeconfig.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.csproj.AssemblyReference.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.AssemblyInfoInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.AssemblyInfo.cs
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\refint\ExercicioIMC.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.genruntimeconfig.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ref\ExercicioIMC.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\refint\ExercicioIMC.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ref\ExercicioIMC.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\bin\Debug\net6.0\ExercicioIMC.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\refint\ExercicioIMC.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ExercicioIMC.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Problemas\ExercicioIMC\ExercicioIMC\obj\Debug\net6.0\ref\ExercicioIMC.dll

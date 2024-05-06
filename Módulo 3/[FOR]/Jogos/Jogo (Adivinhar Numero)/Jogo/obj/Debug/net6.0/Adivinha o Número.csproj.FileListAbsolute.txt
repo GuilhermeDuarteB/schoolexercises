@@ -1,0 +1,30 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\bin\Debug\net6.0\Adivinha o Número.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\bin\Debug\net6.0\Adivinha o Número.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\bin\Debug\net6.0\Adivinha o Número.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\bin\Debug\net6.0\Adivinha o Número.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\bin\Debug\net6.0\Adivinha o Número.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Adivinha o Número.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Adivinha o Número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Adivinha o Número.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Adivinha o Número.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Adivinha o Número.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Adivinha o Número.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\refint\Adivinha o Número.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Adivinha o Número.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Adivinha o Número.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\ref\Adivinha o Número.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\bin\Debug\net6.0\Adivinha o Número.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\bin\Debug\net6.0\Adivinha o Número.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\bin\Debug\net6.0\Adivinha o Número.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\bin\Debug\net6.0\Adivinha o Número.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\bin\Debug\net6.0\Adivinha o Número.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\obj\Debug\net6.0\Adivinha o Número.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\obj\Debug\net6.0\Adivinha o Número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\obj\Debug\net6.0\Adivinha o Número.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\obj\Debug\net6.0\Adivinha o Número.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\obj\Debug\net6.0\Adivinha o Número.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\obj\Debug\net6.0\Adivinha o Número.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\obj\Debug\net6.0\refint\Adivinha o Número.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\obj\Debug\net6.0\Adivinha o Número.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\obj\Debug\net6.0\Adivinha o Número.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogos\Jogo (Adivinhar Numero)\Jogo\obj\Debug\net6.0\ref\Adivinha o Número.dll

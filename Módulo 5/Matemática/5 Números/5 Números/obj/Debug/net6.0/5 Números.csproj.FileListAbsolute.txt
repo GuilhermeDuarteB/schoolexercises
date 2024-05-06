@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\bin\Debug\net6.0\5 Números.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\bin\Debug\net6.0\5 Números.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\bin\Debug\net6.0\5 Números.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\bin\Debug\net6.0\5 Números.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\bin\Debug\net6.0\5 Números.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\obj\Debug\net6.0\5 Números.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\obj\Debug\net6.0\5 Números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\obj\Debug\net6.0\5 Números.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\obj\Debug\net6.0\5 Números.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\obj\Debug\net6.0\5 Números.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\obj\Debug\net6.0\5 Números.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\obj\Debug\net6.0\refint\5 Números.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\obj\Debug\net6.0\5 Números.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\obj\Debug\net6.0\5 Números.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Matemática\5 Números\5 Números\obj\Debug\net6.0\ref\5 Números.dll

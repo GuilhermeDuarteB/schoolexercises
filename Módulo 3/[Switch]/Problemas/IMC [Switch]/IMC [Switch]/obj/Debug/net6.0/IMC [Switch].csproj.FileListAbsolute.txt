@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\obj\Debug\net6.0\IMC [Switch].csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\obj\Debug\net6.0\IMC [Switch].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\obj\Debug\net6.0\IMC [Switch].AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\obj\Debug\net6.0\IMC [Switch].AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\obj\Debug\net6.0\IMC [Switch].csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\bin\Debug\net6.0\IMC [Switch].exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\bin\Debug\net6.0\IMC [Switch].deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\bin\Debug\net6.0\IMC [Switch].runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\bin\Debug\net6.0\IMC [Switch].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\bin\Debug\net6.0\IMC [Switch].pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\obj\Debug\net6.0\IMC [Switch].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\obj\Debug\net6.0\refint\IMC [Switch].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\obj\Debug\net6.0\IMC [Switch].pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\obj\Debug\net6.0\IMC [Switch].genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\IMC [Switch]\IMC [Switch]\obj\Debug\net6.0\ref\IMC [Switch].dll

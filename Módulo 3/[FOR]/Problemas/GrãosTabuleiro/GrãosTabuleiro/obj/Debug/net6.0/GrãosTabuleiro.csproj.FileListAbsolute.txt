@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\bin\Debug\net6.0\GrãosTabuleiro.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\bin\Debug\net6.0\GrãosTabuleiro.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\bin\Debug\net6.0\GrãosTabuleiro.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\bin\Debug\net6.0\GrãosTabuleiro.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\bin\Debug\net6.0\GrãosTabuleiro.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\obj\Debug\net6.0\GrãosTabuleiro.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\obj\Debug\net6.0\GrãosTabuleiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\obj\Debug\net6.0\GrãosTabuleiro.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\obj\Debug\net6.0\GrãosTabuleiro.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\obj\Debug\net6.0\GrãosTabuleiro.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\obj\Debug\net6.0\GrãosTabuleiro.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\obj\Debug\net6.0\refint\GrãosTabuleiro.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\obj\Debug\net6.0\GrãosTabuleiro.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\obj\Debug\net6.0\GrãosTabuleiro.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\GrãosTabuleiro\GrãosTabuleiro\obj\Debug\net6.0\ref\GrãosTabuleiro.dll

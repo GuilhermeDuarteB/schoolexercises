@@ -1,0 +1,15 @@
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\bin\Debug\net6.0\ExercicioNumeroMaior.exe
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\bin\Debug\net6.0\ExercicioNumeroMaior.deps.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\bin\Debug\net6.0\ExercicioNumeroMaior.runtimeconfig.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\bin\Debug\net6.0\ExercicioNumeroMaior.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\bin\Debug\net6.0\ExercicioNumeroMaior.pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\obj\Debug\net6.0\ExercicioNumeroMaior.csproj.AssemblyReference.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\obj\Debug\net6.0\ExercicioNumeroMaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\obj\Debug\net6.0\ExercicioNumeroMaior.AssemblyInfoInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\obj\Debug\net6.0\ExercicioNumeroMaior.AssemblyInfo.cs
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\obj\Debug\net6.0\ExercicioNumeroMaior.csproj.CoreCompileInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\obj\Debug\net6.0\ExercicioNumeroMaior.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\obj\Debug\net6.0\refint\ExercicioNumeroMaior.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\obj\Debug\net6.0\ExercicioNumeroMaior.pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\obj\Debug\net6.0\ExercicioNumeroMaior.genruntimeconfig.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNumeroMaior\ExercicioNumeroMaior\obj\Debug\net6.0\ref\ExercicioNumeroMaior.dll

@@ -1,0 +1,30 @@
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\bin\Debug\net6.0\ImparPar.exe
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\bin\Debug\net6.0\ImparPar.deps.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\bin\Debug\net6.0\ImparPar.runtimeconfig.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\bin\Debug\net6.0\ImparPar.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\bin\Debug\net6.0\ImparPar.pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.csproj.AssemblyReference.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.AssemblyInfoInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.AssemblyInfo.cs
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.csproj.CoreCompileInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\obj\Debug\net6.0\refint\ImparPar.dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.genruntimeconfig.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ImparPar\ImparPar\obj\Debug\net6.0\ref\ImparPar.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\bin\Debug\net6.0\ImparPar.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\bin\Debug\net6.0\ImparPar.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\bin\Debug\net6.0\ImparPar.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\bin\Debug\net6.0\ImparPar.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\bin\Debug\net6.0\ImparPar.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\obj\Debug\net6.0\refint\ImparPar.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\obj\Debug\net6.0\ImparPar.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ImparPar\ImparPar\obj\Debug\net6.0\ref\ImparPar.dll

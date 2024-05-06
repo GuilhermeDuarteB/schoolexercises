@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\bin\Debug\net6.0\DiaDaSemana[SWITCH].exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\bin\Debug\net6.0\DiaDaSemana[SWITCH].deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\bin\Debug\net6.0\DiaDaSemana[SWITCH].runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\bin\Debug\net6.0\DiaDaSemana[SWITCH].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\bin\Debug\net6.0\DiaDaSemana[SWITCH].pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\obj\Debug\net6.0\DiaDaSemana[SWITCH].csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\obj\Debug\net6.0\DiaDaSemana[SWITCH].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\obj\Debug\net6.0\DiaDaSemana[SWITCH].AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\obj\Debug\net6.0\DiaDaSemana[SWITCH].AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\obj\Debug\net6.0\DiaDaSemana[SWITCH].csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\obj\Debug\net6.0\DiaDaSemana[SWITCH].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\obj\Debug\net6.0\refint\DiaDaSemana[SWITCH].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\obj\Debug\net6.0\DiaDaSemana[SWITCH].pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\obj\Debug\net6.0\DiaDaSemana[SWITCH].genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\DiaDaSemana[SWITCH]\DiaDaSemana[SWITCH]\obj\Debug\net6.0\ref\DiaDaSemana[SWITCH].dll

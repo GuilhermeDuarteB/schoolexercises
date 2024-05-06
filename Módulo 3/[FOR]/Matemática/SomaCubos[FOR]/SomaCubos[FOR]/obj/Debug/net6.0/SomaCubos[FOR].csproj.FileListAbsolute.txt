@@ -1,0 +1,15 @@
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\bin\Debug\net6.0\SomaCubos[FOR].exe
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\bin\Debug\net6.0\SomaCubos[FOR].deps.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\bin\Debug\net6.0\SomaCubos[FOR].runtimeconfig.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\bin\Debug\net6.0\SomaCubos[FOR].dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\bin\Debug\net6.0\SomaCubos[FOR].pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\obj\Debug\net6.0\SomaCubos[FOR].csproj.AssemblyReference.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\obj\Debug\net6.0\SomaCubos[FOR].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\obj\Debug\net6.0\SomaCubos[FOR].AssemblyInfoInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\obj\Debug\net6.0\SomaCubos[FOR].AssemblyInfo.cs
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\obj\Debug\net6.0\SomaCubos[FOR].csproj.CoreCompileInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\obj\Debug\net6.0\SomaCubos[FOR].dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\obj\Debug\net6.0\refint\SomaCubos[FOR].dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\obj\Debug\net6.0\SomaCubos[FOR].pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\obj\Debug\net6.0\SomaCubos[FOR].genruntimeconfig.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Matemática\SomaCubos[FOR]\SomaCubos[FOR]\obj\Debug\net6.0\ref\SomaCubos[FOR].dll

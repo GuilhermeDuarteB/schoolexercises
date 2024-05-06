@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\bin\Debug\net6.0\Multiplos [FOR].exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\bin\Debug\net6.0\Multiplos [FOR].deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\bin\Debug\net6.0\Multiplos [FOR].runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\bin\Debug\net6.0\Multiplos [FOR].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\bin\Debug\net6.0\Multiplos [FOR].pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\obj\Debug\net6.0\Multiplos [FOR].csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\obj\Debug\net6.0\Multiplos [FOR].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\obj\Debug\net6.0\Multiplos [FOR].AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\obj\Debug\net6.0\Multiplos [FOR].AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\obj\Debug\net6.0\Multiplos [FOR].csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\obj\Debug\net6.0\Multiplos [FOR].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\obj\Debug\net6.0\refint\Multiplos [FOR].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\obj\Debug\net6.0\Multiplos [FOR].pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\obj\Debug\net6.0\Multiplos [FOR].genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[FOR]\Multiplos [FOR]\Multiplos [FOR]\obj\Debug\net6.0\ref\Multiplos [FOR].dll

@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\bin\Debug\net6.0\Fibonnaci.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\bin\Debug\net6.0\Fibonnaci.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\bin\Debug\net6.0\Fibonnaci.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\bin\Debug\net6.0\Fibonnaci.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\bin\Debug\net6.0\Fibonnaci.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\obj\Debug\net6.0\Fibonnaci.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\obj\Debug\net6.0\Fibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\obj\Debug\net6.0\Fibonnaci.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\obj\Debug\net6.0\Fibonnaci.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\obj\Debug\net6.0\Fibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\obj\Debug\net6.0\Fibonnaci.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\obj\Debug\net6.0\refint\Fibonnaci.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\obj\Debug\net6.0\Fibonnaci.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\obj\Debug\net6.0\Fibonnaci.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\Fibonnaci\Fibonnaci\obj\Debug\net6.0\ref\Fibonnaci.dll

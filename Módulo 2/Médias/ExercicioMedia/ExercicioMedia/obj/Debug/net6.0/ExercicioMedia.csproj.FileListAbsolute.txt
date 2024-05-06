@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\bin\Debug\net6.0\ExercicioMedia.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\bin\Debug\net6.0\ExercicioMedia.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\bin\Debug\net6.0\ExercicioMedia.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\bin\Debug\net6.0\ExercicioMedia.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\bin\Debug\net6.0\ExercicioMedia.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\obj\Debug\net6.0\ExercicioMedia.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\obj\Debug\net6.0\ExercicioMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\obj\Debug\net6.0\ExercicioMedia.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\obj\Debug\net6.0\ExercicioMedia.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\obj\Debug\net6.0\ExercicioMedia.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\obj\Debug\net6.0\ExercicioMedia.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\obj\Debug\net6.0\refint\ExercicioMedia.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\obj\Debug\net6.0\ExercicioMedia.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\obj\Debug\net6.0\ExercicioMedia.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMedia\ExercicioMedia\obj\Debug\net6.0\ref\ExercicioMedia.dll

@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\bin\Debug\net6.0\Somar Linhas.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\bin\Debug\net6.0\Somar Linhas.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\bin\Debug\net6.0\Somar Linhas.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\bin\Debug\net6.0\Somar Linhas.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\bin\Debug\net6.0\Somar Linhas.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\obj\Debug\net6.0\Somar Linhas.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\obj\Debug\net6.0\Somar Linhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\obj\Debug\net6.0\Somar Linhas.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\obj\Debug\net6.0\Somar Linhas.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\obj\Debug\net6.0\Somar Linhas.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\obj\Debug\net6.0\Somar Linhas.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\obj\Debug\net6.0\refint\Somar Linhas.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\obj\Debug\net6.0\Somar Linhas.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\obj\Debug\net6.0\Somar Linhas.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\Somar Linhas\Somar Linhas\obj\Debug\net6.0\ref\Somar Linhas.dll

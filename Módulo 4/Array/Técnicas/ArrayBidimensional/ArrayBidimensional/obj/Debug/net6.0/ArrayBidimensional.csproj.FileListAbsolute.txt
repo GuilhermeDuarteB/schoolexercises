@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\bin\Debug\net6.0\ArrayBidimensional.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\bin\Debug\net6.0\ArrayBidimensional.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\bin\Debug\net6.0\ArrayBidimensional.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\bin\Debug\net6.0\ArrayBidimensional.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\bin\Debug\net6.0\ArrayBidimensional.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\obj\Debug\net6.0\refint\ArrayBidimensional.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Array\Técnicas\ArrayBidimensional\ArrayBidimensional\obj\Debug\net6.0\ref\ArrayBidimensional.dll

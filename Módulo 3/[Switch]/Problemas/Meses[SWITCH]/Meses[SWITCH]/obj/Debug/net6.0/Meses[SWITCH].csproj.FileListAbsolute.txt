@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\bin\Debug\net6.0\Meses[SWITCH].exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\bin\Debug\net6.0\Meses[SWITCH].deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\bin\Debug\net6.0\Meses[SWITCH].runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\bin\Debug\net6.0\Meses[SWITCH].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\bin\Debug\net6.0\Meses[SWITCH].pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\obj\Debug\net6.0\Meses[SWITCH].csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\obj\Debug\net6.0\Meses[SWITCH].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\obj\Debug\net6.0\Meses[SWITCH].AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\obj\Debug\net6.0\Meses[SWITCH].AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\obj\Debug\net6.0\Meses[SWITCH].csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\obj\Debug\net6.0\Meses[SWITCH].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\obj\Debug\net6.0\refint\Meses[SWITCH].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\obj\Debug\net6.0\Meses[SWITCH].pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\obj\Debug\net6.0\Meses[SWITCH].genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Meses[SWITCH]\Meses[SWITCH]\obj\Debug\net6.0\ref\Meses[SWITCH].dll

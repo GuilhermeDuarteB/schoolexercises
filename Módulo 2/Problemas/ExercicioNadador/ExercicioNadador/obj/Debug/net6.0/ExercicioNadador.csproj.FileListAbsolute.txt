@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\bin\Debug\net6.0\ExercicioNadador.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\bin\Debug\net6.0\ExercicioNadador.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\bin\Debug\net6.0\ExercicioNadador.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\bin\Debug\net6.0\ExercicioNadador.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\bin\Debug\net6.0\ExercicioNadador.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\obj\Debug\net6.0\ExercicioNadador.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\obj\Debug\net6.0\ExercicioNadador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\obj\Debug\net6.0\ExercicioNadador.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\obj\Debug\net6.0\ExercicioNadador.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\obj\Debug\net6.0\ExercicioNadador.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\obj\Debug\net6.0\ExercicioNadador.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\obj\Debug\net6.0\refint\ExercicioNadador.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\obj\Debug\net6.0\ExercicioNadador.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\obj\Debug\net6.0\ExercicioNadador.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioNadador\ExercicioNadador\obj\Debug\net6.0\ref\ExercicioNadador.dll

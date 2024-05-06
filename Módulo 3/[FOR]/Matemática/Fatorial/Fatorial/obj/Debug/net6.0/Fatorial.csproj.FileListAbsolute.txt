@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\obj\Debug\net6.0\refint\Fatorial.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Fatorial\Fatorial\obj\Debug\net6.0\ref\Fatorial.dll

@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\bin\Debug\net6.0\APPFuncionarios.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\bin\Debug\net6.0\APPFuncionarios.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\bin\Debug\net6.0\APPFuncionarios.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\bin\Debug\net6.0\APPFuncionarios.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\bin\Debug\net6.0\APPFuncionarios.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\obj\Debug\net6.0\APPFuncionarios.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\obj\Debug\net6.0\APPFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\obj\Debug\net6.0\APPFuncionarios.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\obj\Debug\net6.0\APPFuncionarios.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\obj\Debug\net6.0\APPFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\obj\Debug\net6.0\APPFuncionarios.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\obj\Debug\net6.0\refint\APPFuncionarios.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\obj\Debug\net6.0\APPFuncionarios.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\obj\Debug\net6.0\APPFuncionarios.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\APPFuncionarios\APPFuncionarios\obj\Debug\net6.0\ref\APPFuncionarios.dll

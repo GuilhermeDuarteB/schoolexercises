@@ -1,0 +1,45 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\refint\ExercicioMaiorNumero (Lista).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ref\ExercicioMaiorNumero (Lista).dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).exe
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).deps.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).runtimeconfig.json
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).csproj.AssemblyReference.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).AssemblyInfoInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).AssemblyInfo.cs
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).csproj.CoreCompileInputs.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\refint\ExercicioMaiorNumero (Lista).dll
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).pdb
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).genruntimeconfig.cache
+C:\Users\3xmin\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ref\ExercicioMaiorNumero (Lista).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\bin\Debug\net6.0\ExercicioMaiorNumero (Lista).pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\refint\ExercicioMaiorNumero (Lista).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ExercicioMaiorNumero (Lista).genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 2\Matemática\ExercicioMaiorNumero (Lista)\ExercicioMaiorNumero (Lista)\obj\Debug\net6.0\ref\ExercicioMaiorNumero (Lista).dll

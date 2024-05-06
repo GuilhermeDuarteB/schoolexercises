@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\obj\Debug\net6.0\Soma.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\obj\Debug\net6.0\Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\obj\Debug\net6.0\Soma.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\obj\Debug\net6.0\Soma.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\obj\Debug\net6.0\Soma.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\bin\Debug\net6.0\Soma.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\bin\Debug\net6.0\Soma.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\bin\Debug\net6.0\Soma.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\bin\Debug\net6.0\Soma.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\bin\Debug\net6.0\Soma.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\obj\Debug\net6.0\Soma.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\obj\Debug\net6.0\refint\Soma.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\obj\Debug\net6.0\Soma.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\obj\Debug\net6.0\Soma.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\ExercicioSoma\Soma\obj\Debug\net6.0\ref\Soma.dll

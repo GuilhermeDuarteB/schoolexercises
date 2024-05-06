@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\bin\Debug\net6.0\Jogo.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\bin\Debug\net6.0\Jogo.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\bin\Debug\net6.0\Jogo.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\bin\Debug\net6.0\Jogo.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\bin\Debug\net6.0\Jogo.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Jogo.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Jogo.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Jogo.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Jogo.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Jogo.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\refint\Jogo.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Jogo.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\Jogo.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Jogo\Jogo\obj\Debug\net6.0\ref\Jogo.dll

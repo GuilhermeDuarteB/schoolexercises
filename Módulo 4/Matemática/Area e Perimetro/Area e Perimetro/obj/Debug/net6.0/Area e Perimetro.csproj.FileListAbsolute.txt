@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\bin\Debug\net6.0\Area e Perimetro.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\bin\Debug\net6.0\Area e Perimetro.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\bin\Debug\net6.0\Area e Perimetro.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\bin\Debug\net6.0\Area e Perimetro.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\bin\Debug\net6.0\Area e Perimetro.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\obj\Debug\net6.0\Area e Perimetro.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\obj\Debug\net6.0\Area e Perimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\obj\Debug\net6.0\Area e Perimetro.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\obj\Debug\net6.0\Area e Perimetro.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\obj\Debug\net6.0\Area e Perimetro.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\obj\Debug\net6.0\Area e Perimetro.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\obj\Debug\net6.0\refint\Area e Perimetro.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\obj\Debug\net6.0\Area e Perimetro.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\obj\Debug\net6.0\Area e Perimetro.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\Area e Perimetro\Area e Perimetro\obj\Debug\net6.0\ref\Area e Perimetro.dll

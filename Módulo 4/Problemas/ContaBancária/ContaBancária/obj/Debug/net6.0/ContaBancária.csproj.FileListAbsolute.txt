@@ -1,0 +1,45 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\obj\Debug\net6.0\refint\ContaBancária.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\ContaBancária\ContaBancária\obj\Debug\net6.0\ref\ContaBancária.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\obj\Debug\net6.0\refint\ContaBancária.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[While]\Problemas\ContaBancária\ContaBancária\obj\Debug\net6.0\ref\ContaBancária.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\bin\Debug\net6.0\ContaBancária.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\obj\Debug\net6.0\refint\ContaBancária.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\obj\Debug\net6.0\ContaBancária.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\ContaBancária\ContaBancária\obj\Debug\net6.0\ref\ContaBancária.dll

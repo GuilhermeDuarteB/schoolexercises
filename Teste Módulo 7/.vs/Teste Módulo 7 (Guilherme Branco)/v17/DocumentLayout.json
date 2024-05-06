@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3235guibra\\OneDrive - Escola Profissional\\Programa\u00E7\u00E3o\\10\u00BA Ano\\Teste M\u00F3dulo 7 (Guilherme Branco)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A71DEDD-9837-4E2C-AC74-98AE94871D7B}|Teste M\u00F3dulo 7 (Guilherme Branco)\\Teste M\u00F3dulo 7 (Guilherme Branco).csproj|c:\\users\\3235guibra\\onedrive - escola profissional\\programa\u00E7\u00E3o\\10\u00BA ano\\teste m\u00F3dulo 7 (guilherme branco)\\teste m\u00F3dulo 7 (guilherme branco)\\teste m\u00F3dulo 7 (guilherme branco).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A71DEDD-9837-4E2C-AC74-98AE94871D7B}|Teste M\u00F3dulo 7 (Guilherme Branco)\\Teste M\u00F3dulo 7 (Guilherme Branco).csproj|solutionrelative:teste m\u00F3dulo 7 (guilherme branco)\\teste m\u00F3dulo 7 (guilherme branco).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teste M\u00F3dulo 7 (Guilherme Branco).cs",
+              "DocumentMoniker": "C:\\Users\\3235guibra\\OneDrive - Escola Profissional\\Programa\u00E7\u00E3o\\10\u00BA Ano\\Teste M\u00F3dulo 7 (Guilherme Branco)\\Teste M\u00F3dulo 7 (Guilherme Branco)\\Teste M\u00F3dulo 7 (Guilherme Branco).cs",
+              "RelativeDocumentMoniker": "Teste M\u00F3dulo 7 (Guilherme Branco)\\Teste M\u00F3dulo 7 (Guilherme Branco).cs",
+              "ToolTip": "C:\\Users\\3235guibra\\OneDrive - Escola Profissional\\Programa\u00E7\u00E3o\\10\u00BA Ano\\Teste M\u00F3dulo 7 (Guilherme Branco)\\Teste M\u00F3dulo 7 (Guilherme Branco)\\Teste M\u00F3dulo 7 (Guilherme Branco).cs",
+              "RelativeToolTip": "Teste M\u00F3dulo 7 (Guilherme Branco)\\Teste M\u00F3dulo 7 (Guilherme Branco).cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAQwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:29:23.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

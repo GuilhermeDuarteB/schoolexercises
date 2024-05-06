@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\bin\Debug\net6.0\InverterNúmeros.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\bin\Debug\net6.0\InverterNúmeros.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\bin\Debug\net6.0\InverterNúmeros.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\bin\Debug\net6.0\InverterNúmeros.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\bin\Debug\net6.0\InverterNúmeros.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\obj\Debug\net6.0\InverterNúmeros.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\obj\Debug\net6.0\InverterNúmeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\obj\Debug\net6.0\InverterNúmeros.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\obj\Debug\net6.0\InverterNúmeros.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\obj\Debug\net6.0\InverterNúmeros.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\obj\Debug\net6.0\InverterNúmeros.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\obj\Debug\net6.0\refint\InverterNúmeros.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\obj\Debug\net6.0\InverterNúmeros.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\obj\Debug\net6.0\InverterNúmeros.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 5\Problemas\InverterNúmeros\InverterNúmeros\obj\Debug\net6.0\ref\InverterNúmeros.dll

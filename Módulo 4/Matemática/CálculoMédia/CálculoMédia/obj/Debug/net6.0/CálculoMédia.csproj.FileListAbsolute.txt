@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\bin\Debug\net6.0\CálculoMédia.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\bin\Debug\net6.0\CálculoMédia.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\bin\Debug\net6.0\CálculoMédia.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\bin\Debug\net6.0\CálculoMédia.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\bin\Debug\net6.0\CálculoMédia.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\obj\Debug\net6.0\CálculoMédia.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\obj\Debug\net6.0\CálculoMédia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\obj\Debug\net6.0\CálculoMédia.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\obj\Debug\net6.0\CálculoMédia.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\obj\Debug\net6.0\CálculoMédia.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\obj\Debug\net6.0\CálculoMédia.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\obj\Debug\net6.0\refint\CálculoMédia.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\obj\Debug\net6.0\CálculoMédia.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\obj\Debug\net6.0\CálculoMédia.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Módulo 4\CálculoMédia\CálculoMédia\obj\Debug\net6.0\ref\CálculoMédia.dll

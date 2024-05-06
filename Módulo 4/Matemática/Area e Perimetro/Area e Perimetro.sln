@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area e Perimetro", "Area e Perimetro\Area e Perimetro.csproj", "{DA1A6C71-3642-4772-961C-AC93C7263795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA1A6C71-3642-4772-961C-AC93C7263795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1A6C71-3642-4772-961C-AC93C7263795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1A6C71-3642-4772-961C-AC93C7263795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1A6C71-3642-4772-961C-AC93C7263795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70B696FA-17E2-466A-A145-8265148D8E78}
+	EndGlobalSection
+EndGlobal

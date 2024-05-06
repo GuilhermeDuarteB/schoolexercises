@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\bin\Debug\net6.0\Preços[SWITCH].exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\bin\Debug\net6.0\Preços[SWITCH].deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\bin\Debug\net6.0\Preços[SWITCH].runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\bin\Debug\net6.0\Preços[SWITCH].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\bin\Debug\net6.0\Preços[SWITCH].pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\obj\Debug\net6.0\Preços[SWITCH].csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\obj\Debug\net6.0\Preços[SWITCH].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\obj\Debug\net6.0\Preços[SWITCH].AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\obj\Debug\net6.0\Preços[SWITCH].AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\obj\Debug\net6.0\Preços[SWITCH].csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\obj\Debug\net6.0\Preços[SWITCH].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\obj\Debug\net6.0\refint\Preços[SWITCH].dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\obj\Debug\net6.0\Preços[SWITCH].pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\obj\Debug\net6.0\Preços[SWITCH].genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\[Switch]\Problemas\Preços[SWITCH]\Preços[SWITCH]\obj\Debug\net6.0\ref\Preços[SWITCH].dll

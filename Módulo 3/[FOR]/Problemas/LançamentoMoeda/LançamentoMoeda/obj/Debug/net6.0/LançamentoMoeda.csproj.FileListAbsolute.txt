@@ -1,0 +1,15 @@
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\bin\Debug\net6.0\LançamentoMoeda.exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\bin\Debug\net6.0\LançamentoMoeda.deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\bin\Debug\net6.0\LançamentoMoeda.runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\bin\Debug\net6.0\LançamentoMoeda.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\bin\Debug\net6.0\LançamentoMoeda.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\obj\Debug\net6.0\LançamentoMoeda.csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\obj\Debug\net6.0\LançamentoMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\obj\Debug\net6.0\LançamentoMoeda.AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\obj\Debug\net6.0\LançamentoMoeda.AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\obj\Debug\net6.0\LançamentoMoeda.csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\obj\Debug\net6.0\LançamentoMoeda.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\obj\Debug\net6.0\refint\LançamentoMoeda.dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\obj\Debug\net6.0\LançamentoMoeda.pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\obj\Debug\net6.0\LançamentoMoeda.genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Visual Studio\Módulo 3\Problemas\LançamentoMoeda\LançamentoMoeda\obj\Debug\net6.0\ref\LançamentoMoeda.dll

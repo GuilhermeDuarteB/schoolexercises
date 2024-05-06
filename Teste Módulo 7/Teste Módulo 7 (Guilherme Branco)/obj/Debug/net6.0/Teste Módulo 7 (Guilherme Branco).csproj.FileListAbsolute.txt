@@ -1,0 +1,44 @@
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).exe
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).deps.json
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).runtimeconfig.json
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).dll
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).pdb
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).csproj.AssemblyReference.cache
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).AssemblyInfoInputs.cache
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).AssemblyInfo.cs
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).dll
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\refint\Teste Módulo 7 (Guilherme Branco).dll
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).pdb
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).genruntimeconfig.cache
+C:\Users\3235guibra\Desktop\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\ref\Teste Módulo 7 (Guilherme Branco).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).csproj.AssemblyReference.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\refint\Teste Módulo 7 (Guilherme Branco).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\ref\Teste Módulo 7 (Guilherme Branco).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\10º Ano\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).exe
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\10º Ano\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).deps.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\10º Ano\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).runtimeconfig.json
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\10º Ano\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\10º Ano\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\bin\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\10º Ano\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\10º Ano\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).AssemblyInfoInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\10º Ano\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).AssemblyInfo.cs
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\10º Ano\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).csproj.CoreCompileInputs.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\10º Ano\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\10º Ano\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\refint\Teste Módulo 7 (Guilherme Branco).dll
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\10º Ano\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).pdb
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\10º Ano\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\Teste Módulo 7 (Guilherme Branco).genruntimeconfig.cache
+C:\Users\3235guibra\OneDrive - Escola Profissional\Programação\10º Ano\Teste Módulo 7 (Guilherme Branco)\Teste Módulo 7 (Guilherme Branco)\obj\Debug\net6.0\ref\Teste Módulo 7 (Guilherme Branco).dll

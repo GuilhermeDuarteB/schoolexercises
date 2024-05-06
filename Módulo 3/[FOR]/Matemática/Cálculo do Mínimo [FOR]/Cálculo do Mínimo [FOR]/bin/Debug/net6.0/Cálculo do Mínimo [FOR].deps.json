@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cálculo do Mínimo [FOR]/1.0.0": {
+        "runtime": {
+          "Cálculo do Mínimo [FOR].dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cálculo do Mínimo [FOR]/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

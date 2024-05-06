@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cálculo do Mínimo [FOR]", "Cálculo do Mínimo [FOR]\Cálculo do Mínimo [FOR].csproj", "{449FA6D2-26EC-4E09-AA78-E70C709E629B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{449FA6D2-26EC-4E09-AA78-E70C709E629B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449FA6D2-26EC-4E09-AA78-E70C709E629B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449FA6D2-26EC-4E09-AA78-E70C709E629B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449FA6D2-26EC-4E09-AA78-E70C709E629B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEED0AB3-67B9-4128-BA6F-43C2F2D804F7}
+	EndGlobalSection
+EndGlobal
